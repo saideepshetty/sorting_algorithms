@@ -1,3 +1,4 @@
+# Code By Saideep Shetty
 def merge(array, left, middle, right):
 
     a = middle - left + 1
